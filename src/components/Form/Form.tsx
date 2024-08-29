@@ -1,11 +1,26 @@
-import "./Form.scss";
+import './Form.scss';
 
-export const Form = () => {
+import { useState } from 'react';
+
+export const Form = (props: { createNewToDo: Function }) => {
+  const [text, setText] = useState<string>('');
+
+  const formSubmit = () => {
+    if (text) {
+      props.createNewToDo(text);
+      setText('');
+    }
+  };
+
   return (
     <div className="form-wrapper">
-      <form action="#">
+      <form action="#" onSubmit={formSubmit}>
         <label>
-          <input type="text" />
+          <input
+            value={text}
+            type="text"
+            onChange={(evt) => setText(evt.target.value)}
+          />
           <button></button>
         </label>
       </form>

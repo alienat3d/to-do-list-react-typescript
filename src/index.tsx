@@ -1,5 +1,5 @@
 import './assets/scss/normalize.scss';
-import './assets/scss/style.scss';
+import './assets/scss/global.scss';
 
 import React from 'react';
 import ReactDOM from 'react-dom/client';

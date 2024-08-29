@@ -1,0 +1,17 @@
+body {
+	margin: 0;
+	text-align: center;
+	padding-top: 5%;
+}
+.no-js-warning {
+	border: 2px ridge #ee6767;
+	width: 100%;
+	padding: 20px 25px;
+	font-size: 30px;
+	color: #ee6767;
+	background-color: #f2f595;
+}
+.no-js-warning a {
+	color: #ee6767;
+	text-underline-offset: 7px;
+}
