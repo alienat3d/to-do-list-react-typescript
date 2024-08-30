@@ -4,7 +4,7 @@
 <a href="https://github.com/alienat3d/icons-for-github/blob/dev/screenshots/todo-list.webp?raw=true" target="_blank">
   <img src="https://github.com/alienat3d/icons-for-github/blob/dev/screenshots/todo-list-small.webp" alt="ToDo List smaller screenshot" align="center">
 </a>
-<div align="center"><h2><a href="https://alienat3d.github.io/marcho/" target="_blank">Click to see :computer: <img src="https://github.com/alienat3d/icons-for-github/blob/dev/deploy.svg"></a></h2></div>
+<div align="center"><h2><a href="https://alienat3d.github.io/to-do-list-react-typescript/" target="_blank">Click to see :computer: <img src="https://github.com/alienat3d/icons-for-github/blob/dev/deploy.svg"></a></h2></div>
 
 ## Technologies that are used in this project:
 
