@@ -9,14 +9,15 @@ Lesson #2:
 > (CSS modules)[https://habr.com/ru/articles/335244/]
 ---
 Lesson #3:
-> (useState())[https://ru.legacy.reactjs.org/docs/hooks-intro.html]
-> (useEffect())[https://ru.legacy.reactjs.org/docs/hooks-overview.html]
-> (Списки и ключи)[https://ru.legacy.reactjs.org/docs/lists-and-keys.html]
-> (TypeScript для React)[https://habr.com/ru/companies/otus/articles/456124/]
+> [✓] (библиотека react-toastify)[https://www.npmjs.com/package/react-toastify]
+> [] (useState())[https://ru.legacy.reactjs.org/docs/hooks-intro.html]
+> [] (useEffect())[https://ru.legacy.reactjs.org/docs/hooks-overview.html]
+> [] (Списки и ключи)[https://ru.legacy.reactjs.org/docs/lists-and-keys.html]
+> [] (TypeScript для React)[https://habr.com/ru/companies/otus/articles/456124/]
 
 HW:
-1) Подключить библиотеку react-toastify (или любую другую для работы со всплывающими уведомлениями)
-2) С помощью данных пакетов при добавлении / удалении / изменении каждого элемента ToDo листа выводить в нижнем правом углу сообщение с соответствующим текстом.
+1) [✓] Подключить библиотеку react-toastify (или любую другую для работы со всплывающими уведомлениями)
+2) [✓] С помощью данных пакетов при добавлении / удалении / изменении каждого элемента ToDo листа выводить в нижнем правом углу сообщение с соответствующим текстом.
 ---
 Lesson #4:
 > ()[]

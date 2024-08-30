@@ -1,46 +1,30 @@
-# Getting Started with Create React App
+﻿<h1 align="center">« ToDo List (React + TypeScript) »</h1>
+<h3 align="center">A minimalistic, fast and simple ToDo list.</h3>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<a href="https://github.com/alienat3d/icons-for-github/blob/dev/screenshots/todo-list.webp?raw=true" target="_blank">
+  <img src="https://github.com/alienat3d/icons-for-github/blob/dev/screenshots/todo-list-small.webp" alt="ToDo List smaller screenshot" align="center">
+</a>
+<div align="center"><h2><a href="https://alienat3d.github.io/marcho/" target="_blank">Click to see :computer: <img src="https://github.com/alienat3d/icons-for-github/blob/dev/deploy.svg"></a></h2></div>
 
-## Available Scripts
+## Technologies that are used in this project:
 
-In the project directory, you can run:
+- <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff" alt="HTML5 badge">
+- <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3" alt="CSS3 badge">
+- <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff" alt="SCSS badge">
+- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff" alt="JavaScript badge">
+- <img src="https://img.shields.io/badge/React-61DAFB?logo=react" alt="React badge">
+- <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript" alt="TypeScript badge">
+- <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm" alt="NPM badge">
+- <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack" alt="Webpack badge">
 
-### `npm start`
+## NPM-packages that are used for development:
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- <a href="https://www.npmjs.com/package/react-toastify" target="_blank"><img src="https://img.shields.io/badge/react-toastify-slategray" alt="react-toastify badge"></a>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Time spent to create this project:
 
-### `npm test`
+[![wakatime](https://wakatime.com/badge/user/f37ab12b-d024-4d9e-ae52-28518e6bcaf7/project/59ec7f56-ff46-4a7e-a599-6125e2d4c810.svg)](https://wakatime.com/badge/user/f37ab12b-d024-4d9e-ae52-28518e6bcaf7/project/59ec7f56-ff46-4a7e-a599-6125e2d4c810)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## My Contact E-Mail:
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+<a href="mailto:zaplin.dev@gmail.com"><img src="https://github.com/alienat3d/icons-for-github/blob/dev/send-email.svg">Interested? Write me an e-mail: zaplin.dev@gmail.com</a>

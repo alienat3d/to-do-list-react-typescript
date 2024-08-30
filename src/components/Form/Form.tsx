@@ -2,12 +2,16 @@ import './Form.scss';
 
 import { useState } from 'react';
 
-export const Form = (props: { createNewToDo: Function }) => {
+export const Form = (props: { 
+	createNewToDo: Function;
+	notifyInfo: Function;
+}) => {
   const [text, setText] = useState<string>('');
 
   const formSubmit = () => {
     if (text) {
       props.createNewToDo(text);
+			props.notifyInfo("Новая задача добавлена");
       setText('');
     }
   };
