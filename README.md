@@ -13,9 +13,9 @@
 - <img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff" alt="SCSS badge">
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=fff" alt="JavaScript badge">
 - <img src="https://img.shields.io/badge/React-61DAFB?logo=react" alt="React badge">
-- <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript" alt="TypeScript badge">
+- <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff" alt="TypeScript badge">
 - <img src="https://img.shields.io/badge/NPM-CB3837?logo=npm" alt="NPM badge">
-- <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=Webpack" alt="Webpack badge">
+- <img src="https://img.shields.io/badge/Webpack-8DD6F9?logo=webpack&logoColor=fff" alt="Webpack badge">
 
 ## NPM-packages that are used for development:
 
