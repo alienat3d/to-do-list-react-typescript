@@ -1,0 +1,25 @@
+.link {
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 20px;
+  color: #4682b4;
+
+  & + & {
+    margin-top: 10px;
+  }
+}
+
+.done {
+  position: relative;
+  color: green;
+
+  &::after {
+    content: '';
+    position: absolute;
+    top: 52%;
+    left: -2%;
+    width: 104%;
+    height: 1px;
+    background-color: rgba(green, 0.5);
+  }
+}

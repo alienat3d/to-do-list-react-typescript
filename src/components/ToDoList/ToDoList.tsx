@@ -41,12 +41,8 @@ export const ToDoList = (props: {
 
   return (
     <div className="todo-container">
-      <ul className="todo-list failed">
-        {checkedList()}
-      </ul>
-      <ul className="todo-list completed">
-        {uncheckedList()}
-      </ul>
+      <ul className="todo-list failed">{checkedList()}</ul>
+      <ul className="todo-list completed">{uncheckedList()}</ul>
     </div>
   );
 };

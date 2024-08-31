@@ -4,7 +4,6 @@ import { toast, Zoom } from 'react-toastify';
 
 import { ToDo } from '../models/todo-item';
 
-import { Header } from '../components/Header/Header';
 import { Form } from '../components/Form/Form';
 import { ToDoList } from '../components/ToDoList/ToDoList';
 
@@ -83,7 +82,6 @@ export const ToDoListPage = () => {
 
   return (
     <>
-      <Header />
       <Form createNewToDo={createNewToDo} notifyInfo={notifyInfo} />
       <ToDoList todos={todos} updateToDo={updateToDo} deleteToDo={deleteToDo} />
     </>
