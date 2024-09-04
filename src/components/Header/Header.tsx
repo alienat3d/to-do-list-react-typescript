@@ -13,7 +13,7 @@ export const Header = () => {
           ToDos
         </NavLink>
         <NavLink className={getActiveClass} to="/todo">
-          Панель управления
+          Control panel
         </NavLink>
       </div>
     </header>

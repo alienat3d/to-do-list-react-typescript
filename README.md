@@ -20,6 +20,7 @@
 ## NPM-packages that are used for development:
 
 - <a href="https://www.npmjs.com/package/react-toastify" target="_blank"><img src="https://img.shields.io/badge/react-toastify-slategray" alt="react-toastify badge"></a>
+- <a href="https://www.npmjs.com/package/react-helmet-async" target="_blank"><img src="https://img.shields.io/badge/React%20Helmet%20async-slategray" alt="React Helmet async badge"></a>
 
 ## Time spent to create this project:
 

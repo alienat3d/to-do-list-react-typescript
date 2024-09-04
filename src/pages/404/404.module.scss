@@ -1,11 +1,42 @@
+.outerContainer {
+  z-index: -2;
+  background: url('../../assets/images/waves.svg') no-repeat bottom/cover;
+}
+
+.title {
+  margin-bottom: 40px;
+}
+
+.subtitle {
+  z-index: 0;
+}
+
+.error404 {
+  z-index: -1;
+  position: relative;
+
+  &::after {
+    z-index: -1;
+    content: '';
+    position: absolute;
+    top: -43px;
+    left: -10px;
+    width: 120px;
+    height: 120px;
+    background: url('../../assets/images/404-bg.svg') no-repeat center/contain;
+    animation-name: rotate;
+    animation-duration: 20s;
+  }
+}
+
 .link {
-	margin-top: 35px;
+  margin-top: 35px;
   position: relative;
   padding-right: 50px;
   text-decoration: none;
   font-weight: 600;
   font-size: 20px;
-  color: #4682b4;
+  color: #000;
 
   &::after {
     content: '';
@@ -21,5 +52,14 @@
 
   &:hover:after {
     transform: rotate(-360deg);
+  }
+}
+
+@keyframes rotate {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
   }
 }

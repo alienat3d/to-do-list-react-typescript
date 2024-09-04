@@ -25,16 +25,16 @@ export const ToDoListPage = () => {
       return todo;
     });
 		if (toDoItem.isDone) {
-			notifySuccess('Ура, ещё одна задача выполнена!');
+			notifySuccess('Yay, another task accomplished!');
 		} else {
-			notifyWarn('Упс, кажется это ещё нужно доделать...');
+			notifyWarn('Oops, looks like this still needs to be done....');
 		}
     setTodos(newTodos);
   };
 
   const deleteToDo = (toDoItem: ToDo) => {
     const newTodos = todos.filter((todo) => todo.id !== toDoItem.id);
-		notifyInfo('Задача успешно была удалена из списка')
+		notifyInfo('The task was successfully removed from the list')
     setTodos(newTodos);
   };
 
